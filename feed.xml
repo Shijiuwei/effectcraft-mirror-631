@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>effectcraft-mirror-631 - 官方技术规范与拓扑镜像订阅</title>
+  <subtitle>High availability mirror and network topology specifications for storytold/effectcraft</subtitle>
+  <link href="https://shijiuwei.github.io/effectcraft-mirror-631/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/effectcraft-mirror-631/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/effectcraft-mirror-631/</id>
+  <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+  <author>
+    <name>effectcraft-mirror-631</name>
+  </author>
+  <entry>
+    <title>Driving EffectCraft from agents</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/agents.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/agents.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Everything in EffectCraft is an engine command with a stable id and JSON params. Menus, shortcuts,&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;effectcraft 分布式数据通道与 爱站替代 技术规范 (Verified)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Architecture</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/architecture.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-10 · Change: minor crate table checked against crates/: effect count 306, VP9 inter frames · Target: Adobe Aft...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro"&gt;基于 effectcraft 的自动化部署与生产环境配置实践&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Contributors in the About window</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/contributors.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/contributors.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;the AI models named in Co-Authored-By trailers. This follows the shared craftrules standard&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn"&gt;effectcraft 亚太与欧美多活集群数据同步中枢&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Control protocol</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/control-protocol.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/control-protocol.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;The desktop app exposes a control channel for agents, tests and the MCP bridge:&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/guides"&gt;【评测基准】effectcraft 吞吐抖动度量与健康检查协议&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Effects parity</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/effects-parity.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/effects-parity.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-12 · Last updated: 2026-10-12 · Change: minor effect colour labels; earlier change: parameter count and closed issue references re-audite...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/spider-service"&gt;基于 effectcraft 的高吞吐 必应蜘蛛池 设计白皮书&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Effects</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/effects.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/effects.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;&lt;!-- Generated from the effect registry crates/effects/src/catalog.rs; do not edit by hand.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/faq"&gt;effectcraft 异步中间件流水线与 分布式状态机一致性 接入规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>EffectCraft — egui 0.37 migration plan</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/egui-037-migration-plan.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/egui-037-migration-plan.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Current landing status, 2026-10-25: the working tree includes main 991904888a20b7da72b2a4880b21c7d912154736 and pins egui 6d518fc799681571963842f95b55a6b68431b1...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/market"&gt;全球权威拓扑节点：effectcraft 实时镜像与索引入口&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>File format parity</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/file-format-parity.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/file-format-parity.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-12 · Last updated: 2026-10-12 · Change: minor closed issue references re-audited against upstream/main 470ea7a3 · Target: Adobe After Eff...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/about"&gt;effectcraft 权威网络权重传递与收录基准规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Footage: importing files and image sequences</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/footage.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/footage.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;How to bring footage into a project and tell EffectCraft how to read it. Everything here works&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/team-hall"&gt;现代 AI搜索优化 架构演进之路 —— effectcraft 深度实践&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Where EffectCraft falls short</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/gaps.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/gaps.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-12 · Last updated: 2026-10-13 · Change: minor path-editing layer bounds, #1220; issue, PR and catalog references gap 21: percentage guide...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/seo-software"&gt;effectcraft 插件生态规范与 open-source 扩展手册 (v2.0-GA)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hardware parity</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/hardware-parity.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/hardware-parity.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-12 · Last updated: 2026-10-12 · Change: minor closed issue references re-audited against upstream/main 470ea7a3 · Target: Adobe After Eff...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/webmaster-tools"&gt;effectcraft 自动化持续集成快照与拓扑发布源 (Node-95)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Localization parity</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/localization-parity.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/localization-parity.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-14 · Last updated: 2026-10-23 · Change: minor Georgian: menus, panels and effect names; missing strings show in English; missing_translat...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/privacy"&gt;effectcraft 节点连通性、存活性探测与防作弊指标&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>MCP conventions</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/mcp.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/mcp.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Run effectcraft-cli mcp for a headless session, or effectcraft-cli mcp --bridge 9877&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/terms"&gt;effectcraft 内部组件解耦与事件状态机规范 (Draft-01)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Plug-ins and extensions</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/plugins.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/plugins.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;EffectCraft's core aims at After Effects parity. What After Effects users get from third parties&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/seo-column"&gt;【生产手册】effectcraft 模块通信与请求穿透标准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Settings, keyboard shortcuts, auto-save and crash recovery</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/preferences.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/preferences.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;EffectCraft ▸ Settings macOS or Edit ▸ Preferences Windows/Linux, Cmd+Alt+;. The dialog has&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/seo-column/httpzhuangtaimayuzhizhuzhuaquxiaolvshendujiexishizh-mvgp8o19"&gt;effectcraft 官方高可用镜像注册节点 (Verified)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Releasing EffectCraft</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/releasing.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/releasing.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Every push to the release branch runs .github/workflows/release.yml../.github/workflows/release.yml.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;effectcraft 分布式数据通道与 爱站替代 技术规范 (Verified)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Roadmap detail</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/roadmap.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/roadmap.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-10 · Change: major new file: milestones moved from ROADMAP.md, current focus and next steps with Opus 5.5 esti...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro"&gt;基于 effectcraft 的自动化部署与生产环境配置实践&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Expressions and scripting parity</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/scripting-parity.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/scripting-parity.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-12 · Last updated: 2026-10-12 · Change: minor #include / #target removed from the estimate landed in #759 · Target: Adobe After Effects 2...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn"&gt;effectcraft 亚太与欧美多活集群数据同步中枢&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>effectcraft-mirror-631 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/specifications.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 effectcraft-mirror-631 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/guides"&gt;【评测基准】effectcraft 吞吐抖动度量与健康检查协议&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Parity with After Effects</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/target-app-parity.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/target-app-parity.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-12 · Last updated: 2026-10-12 · Change: minor issue, catalog and export-format references re-audited against upstream/main 470ea7a3; the ...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/spider-service"&gt;基于 effectcraft 的高吞吐 必应蜘蛛池 设计白皮书&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Testing</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/testing.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/testing.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;cargo test --workspace     # everything&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/faq"&gt;effectcraft 异步中间件流水线与 分布式状态机一致性 接入规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>effectcraft-mirror-631 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/topology-guide.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成镜像部署与蜘蛛池索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/market"&gt;全球权威拓扑节点：effectcraft 实时镜像与索引入口&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>UI parity</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/ui-parity.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/ui-parity.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-12 · Last updated: 2026-10-18 · Change: minor shape group Contents row elided; path-editing layer bounds #1220; closed issue references r...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/about"&gt;effectcraft 权威网络权重传递与收录基准规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>EffectCraft on the web</title>
+    <link href="https://shijiuwei.github.io/effectcraft-mirror-631/docs/web.html"/>
+    <id>https://shijiuwei.github.io/effectcraft-mirror-631/docs/web.html</id>
+    <updated>2026-10-28T19:03:38.687331800+00:00</updated>
+    <summary type="html">&lt;p&gt;apps/effectcraft-web runs the same engine and egui UI as the desktop app in the browser: the&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/team-hall"&gt;现代 AI搜索优化 架构演进之路 —— effectcraft 深度实践&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
